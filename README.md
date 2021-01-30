@@ -9,7 +9,7 @@
 &nbsp;
 
 
-<img align="left" width="150" src="https://github.com/maranyil/maranyil/blob/main/IMG_6557.PNG">
+<img align="left" width="130" src="https://github.com/maranyil/maranyil/blob/main/IMG_6557.PNG">
 
 
 ### About me
