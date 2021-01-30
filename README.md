@@ -1,6 +1,8 @@
 # Hi there.  :ocean: I'm Mara Mulato.
 *Front-end developer at* [Laboratoria](https://www.laboratoria.la/)
+
 *Self-taught illustrator*
+
 *Curious and creative person*
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mm-mulato/)
 &nbsp;
