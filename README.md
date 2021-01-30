@@ -4,6 +4,7 @@
 *Self-taught illustrator*
 
 *Curious and creative person*
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mm-mulato/)
 &nbsp;
 ### About me
