@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there.  :ocean: I'm Mara Mulato.
+*Front-end developer at* [Laboratoria](https://www.laboratoria.la/)
+*Self-taught illustrator*
+*Curious and creative person*
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mm-mulato/)
+&nbsp;
+### About me
+I am a front-end developer, focused and interested in educational, artistical and humanistic areas. Curious and creative by nature, I have entered into programming because I see in it the solutions for the present and the building blocks for the future.
 
-<!--
-**maranyil/maranyil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About my work
+* :floppy_disk: Currently working with `JavaScript, NodeJs, React, SocketIO, HTML, CSS,`
+* :art: Some other tools `Adobe Photoshop, FIGMA`
+* :seedling: Currently learning `Angular, Python`
+* :zap: Want to work in `educational technologies`
+* :envelope: **Say hello** mulato.mmendoza@gmail.com
