@@ -9,13 +9,14 @@
 &nbsp;
 
 
+<img align="left" width="150" src="https://github.com/maranyil/maranyil/blob/main/IMG_6557.PNG">
+
 
 ### About me
 
 
-I am a front-end developer, focused and interested in educational, artistical and humanistic areas.
-Curious and creative by nature, I have entered into programming because I see in it the solutions for the present and the building blocks for the future. 
-<img align="left" width="200" src="https://github.com/maranyil/maranyil/blob/main/IMG_6557.PNG">
+I am a front-end developer, focused and interested in educational, artistical and humanistic areas. Curious and creative by nature, I have entered into programming because I see in it the solutions for the present and the building blocks for the future. 
+
 
 
 ### About my work
