@@ -25,5 +25,5 @@ I am a front-end developer, focused and interested in educational, artistical an
 * :art: Some other tools `Adobe Photoshop, FIGMA`
 * :seedling: Currently learning `Angular, Python`
 * :zap: Want to work in educational technologies and biotechnology
-* :envelope: **Say hello** mulato.mmendoza@gmail.com
+* :envelope: **Say hello** maranyil@tuta.io
 
