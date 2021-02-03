@@ -24,6 +24,6 @@ I am a front-end developer, focused and interested in educational, artistical an
 * :floppy_disk: Currently working with `JavaScript, NodeJs, React, SocketIO, HTML, CSS,`
 * :art: Some other tools `Adobe Photoshop, FIGMA`
 * :seedling: Currently learning `Angular, Python`
-* :zap: Want to work in educational technologies
+* :zap: Want to work in educational technologies and biotechnology
 * :envelope: **Say hello** mulato.mmendoza@gmail.com
 
