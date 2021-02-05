@@ -3,7 +3,7 @@
 
 *Self-taught illustrator*
 
-*Curious and creative person*
+*Nature lover*
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mm-mulato/)
 &nbsp;
