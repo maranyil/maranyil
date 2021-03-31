@@ -21,9 +21,9 @@ I am a front-end developer, focused and interested in educational, artistical an
 
 ### About my work
 
-* :floppy_disk: Currently working with `JavaScript, NodeJs, React, SocketIO, HTML, CSS,`
+* :floppy_disk: Currently working with `JavaScript, NodeJs, React, SocketIO, HTML, CSS, SASS`
 * :art: Some other tools `Adobe Photoshop, FIGMA`
-* :seedling: Currently learning `Angular, Python`
+* :seedling: Currently learning `Ruby on Rails, Python`
 * :zap: Want to work in educational technologies and biotechnology
 * :envelope: **Say hello** maranyil@tuta.io
 
