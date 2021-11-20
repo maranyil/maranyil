@@ -25,4 +25,4 @@ I am a Front-End developer with interest and background in education, arts and h
 * :art: Some other tools `Adobe Photoshop, FIGMA, MapBox`,
 * :seedling: Currently learning `Python, D3.js`
 * :zap: I want to work on technologies and projects that focus on the arts, education and nature.
-* :envelope: **Say hello** maranyil@tuta.io
+* :envelope: **Say hello** marecito@tuta.io
